@@ -1,1 +1,1 @@
-This is new branch feature1
+This is new branch feature2 for git reabase
